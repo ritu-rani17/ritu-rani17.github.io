@@ -1,0 +1,26 @@
+body{
+    background-color:aquamarine;
+}
+
+.box{
+    width: 100%;
+    text-align: center;
+    margin-right: auto; 
+    margin-left: auto; 
+    margin-top: auto;
+}
+#err{
+   
+    margin-right: auto; 
+    margin-left: auto; 
+    margin-top: auto;
+    text-align: center;
+}
+
+
+table{
+    margin-top: auto;
+    margin-right: auto; 
+    margin-left: auto;
+    margin-bottom: auto; 
+}
